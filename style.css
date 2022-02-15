@@ -1,0 +1,11 @@
+#container {
+    display: grid;
+}
+
+.square {
+    aspect-ratio: 1;
+}
+
+#button {
+    margin-bottom: 5px;
+}
